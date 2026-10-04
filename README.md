@@ -2,9 +2,9 @@
 
 I'm Elad. I used to be a full time C# developer at an enterprise company in Israel. I'm mostly interested in software infrastructure, which includes: network protocols, serialization protocols, multi-threading frameworks, code generation (runtime/design time), etc.
 
-I'm currently a Donald J. Lewis Postdoctoral Research Assistant Professor in [the department of Mathematics at the University of Michigan](https://lsa.umich.edu/math), working in [automorphic forms](https://people.math.osu.edu/cogdell.1/fields-www.pdf). You can find some of my work [here](https://elad.zelingher.com/papers/). I still try to contribute in my free time to the open-source community, mostly to projects related to the [Web Application Messaging Protocol](https://wamp-proto.org/) ecosystem. Among my contributions you can find [WampSharp](https://wampsharp.net/), [autobahn type definitions](https://www.npmjs.com/package/@types/autobahn/), and [Firefox WebSocket inspector support for WAMP messages](https://hacks.mozilla.org/2020/02/firefox-73-is-upon-us/).
+I'm currently a Postdoctoral Assistant Professor (RTPC) of Mathematics at [the University of Southern California]([https://lsa.umich.edu/math](https://dornsife.usc.edu/mathematics/)), working in representation theory. You can find some of my work [here](https://elad.zelingher.com/papers/). I still try to contribute in my free time to the open-source community, mostly to projects related to the [Web Application Messaging Protocol](https://wamp-proto.org/) ecosystem. Among my contributions you can find [WampSharp](https://wampsharp.net/), [autobahn type definitions](https://www.npmjs.com/package/@types/autobahn/), and [Firefox WebSocket inspector support for WAMP messages](https://hacks.mozilla.org/2020/02/firefox-73-is-upon-us/).
 
-I used to write tips in Hebrew about programming in .NET/C# on a daily basis, you can find these [here](https://elad.zelingher.com/tips). Feel free to contact me at *firstname*@codesharp.net, but please note that I'm currently not looking for a job.
+I used to write tips in Hebrew about programming in .NET/C# on a daily basis, you can find these [here](https://elad.zelingher.com/tips). Feel free to contact me at *firstname*@codesharp.net.
 <!--
 **darkl/darkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
